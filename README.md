@@ -6,6 +6,6 @@ The project contains simple implementation of REST API for To Do list manager re
 After cloning or downloading the sample you should be able to open it using [Visual Studio](https://visualstudio.microsoft.com/). For successfully run follow the below steps:
 1. Build solution
 2. Run with IIS Express
-3. Go to [Swagger](https://swagger.io/) page ~~/swagger~~ to get acquainted with API endpoints.
+3. Go to [Swagger](https://swagger.io/) page `/swagger` to get acquainted with API endpoints.
 
 You have no need database because project works with simple fake implementation of database context. All changes are saved locally and after stop application it will be deleted form the memory.
